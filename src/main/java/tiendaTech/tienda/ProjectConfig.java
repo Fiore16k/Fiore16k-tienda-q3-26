@@ -4,10 +4,7 @@
  */
 package tiendaTech.tienda;
 
-/**
- *
- * @author Usuario
- */
+
 public class ProjectConfig {
     
 }
